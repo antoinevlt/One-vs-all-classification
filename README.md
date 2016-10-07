@@ -3,6 +3,7 @@ Machine Learning Exercise 3: multi-class classification problem > one-vs-all-cla
 
 I use logistic regression to recognize handwritten digits (from 0 to 9). I extend my previous implemention of logistic regression and apply it to one-vs-all classification.
 
+==============================================================================
 Files included:
 
 ex3.m - Octave/MATLAB script
